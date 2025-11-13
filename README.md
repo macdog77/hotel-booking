@@ -1,4 +1,4 @@
-#Hotel Booking API
+# Hotel Booking API
 
 Demo API to test Hotel Booking implementation
 API documentation can be found at ~/swagger
